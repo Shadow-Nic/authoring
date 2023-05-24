@@ -11,6 +11,9 @@
 ## External Link   
 External Link for [Github documentation](https://help.github.com/en)
 
+## Images
+![Bild Katze](/images/logo.png)
+
 
 
 
