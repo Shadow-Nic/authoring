@@ -2,7 +2,7 @@
 ## Checkboxes
 - [x] [Extrernal Link](#External-Link)
 - [x] [Internal Link](#Internal-Link)
-- [ ] [Images](#Images)
+- [x] [Images](#Images)
 - [x] [Emojis](#Emojis)
 - [x] [Tables](#Tables)
 
