@@ -1,19 +1,22 @@
 # Github Flavoured Markdown
 ## Checkboxes
 - [x] [Extrernal Link](#External-Link)
-- [ ] Internal Link
-- [x] Images
-- [ ] Emojis
-- [ ] Tables
+- [ ] [Internal Link](#Internal-Link)
+- [x] [Images](#Images)
+- [ ] [Emojis](#Emojis)
+- [ ] [Tables](#Tables)
 
 
 
 ## External Link   
 External Link for [Github documentation](https://help.github.com/en)
 
+## Internal Link
+[Click here](https://github.com/Shadow-Nic/authoring/blob/main/Images/logo.png) Jump to Images  
+
 ## Images
 
-[Click here](https://github.com/Shadow-Nic/authoring/blob/main/Images/logo.png) Jump to Images  
+
 
 
 ![Bild Katze](/assets/images/logo.png)
