@@ -12,7 +12,7 @@
 External Link for [Github documentation](https://help.github.com/en)
 
 ## Internal Link
-[Click here](https://github.com/Shadow-Nic/authoring/blob/main/Images/logo.png) Jump to Images  
+[Click here](https://github.com/Shadow-Nic/authoring/blob/main/Images) Jump to Images  
 
 ## Images
 
