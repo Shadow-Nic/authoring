@@ -16,10 +16,7 @@ External Link for [Github documentation](https://help.github.com/en)
 
 ## Images
 
-
-
-
-![Bild Katze](/assets/images/logo.png)
+![Bild Katze](/images/logo.png)
 
 ## Emojis
 😀 😄 😆 🤣
