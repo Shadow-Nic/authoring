@@ -24,10 +24,10 @@ External Link for [Github documentation](https://help.github.com/en)
 ## Tables
 
 | Names | Class |
-|------|-------|
-|Hans  | 2     |
-|Herbert  | 1  |
-|Louisa | 2    |
+|-------|-------|
+|Hans   | 2     |
+|Herbert| 1     |
+|Louisa | 2     |
 
 
 
